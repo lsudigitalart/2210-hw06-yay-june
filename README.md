@@ -20,7 +20,7 @@ If you are using **animated gifs** you will need to use the `createImg` function
     - [Shu Lea Cheang, *Brandon*](http://brandon.guggenheim.org/)
     - [Jenny Odell, *Garbage*](http://www.jennyodell.com/garbage.html)
     - [Adriene Jenik, *Desktop Theater*, 1997-2002](https://ajenik.faculty.asu.edu/projects_dt.html)
-    - [Paperrad](http://www.paperrad.org)projects_dt.html)
+    - [Paperrad, 2000 - 2008](https://anthology.rhizome.org/paperrad-org)
   - Historical
     - [Hannah Höch, *Cut with the Dada Kitchen Knife through the Last Weimar Beer-Belly Cultural Epoch in Germany*, 1919.](https://en.wikipedia.org/wiki/File:Hoch-Cut_With_the_Kitchen_Knife.jpg)
     - [Raoul Hausmann, *The Art Critic*, 1919–20](https://www.tate.org.uk/art/artworks/hausmann-the-art-critic-t01918) 
