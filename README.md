@@ -9,7 +9,7 @@ Create an collage using found images and text that changes everytime it is viewe
 ## Tech Notes
 If you are using **animated gifs** you will need to use the `createImg` function instead of `loadImage`. Additionally, you will need to use `imageVariableName.position(x,y)` to place the gif instead of `image(x,y)`.
 
-# Inspiration
+## Inspiration
   - Contemporary
     - [Rollin Leonard](http://rollinleonard.tumblr.com/post/64963003543/ball-o-arms)
     - [Lorna Mills](http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump/)
