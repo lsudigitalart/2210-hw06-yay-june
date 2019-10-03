@@ -1,4 +1,9 @@
-# Assignment
+# Assignment 06
+
+## Reading
+HW: 7/Media: Load and display media, including images and fonts.
+
+## Interactive Collage
 Create an interactive collage using found images and text. See the following link to create your own server before previewing images: https://github.com/processing/p5.js/wiki/Local-server. See the following link for using animated GIFs: https://forum.processing.org/two/discussion/12736/animated-gif-support-in-p5. Host your website on github.io.
 
 # Inspiration
